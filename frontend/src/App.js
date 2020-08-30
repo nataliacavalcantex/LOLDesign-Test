@@ -9,7 +9,6 @@ function App() {
   return (
     <div>
       <img src={logo} className="Logo" alt="loldesign logo"></img>
-
       <Main></Main>
     
     </div>
