@@ -1,4 +1,4 @@
-# LOLDesign-Test
+# node-react-postgres-stack
 This application was created for the operator's customer to consult the price of a call with and without the plan of the telephone operator, using React and Node.js(Expressjs)
 
 ## Install packages from yarn or npm
